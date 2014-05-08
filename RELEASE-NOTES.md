@@ -53,6 +53,11 @@ Other breaking changes:
 * Added `Item::getSiteLinkList`
 * Added `Item::setSiteLinkList`
 * Added `LegacyIdInterpreter`
+* Added `TermList::addTermText`
+
+#### Improvements
+
+* An empty `TermList` can now be constructed with no constructor arguments
 
 ## Version 0.7.4 (2014-04-24)
 
